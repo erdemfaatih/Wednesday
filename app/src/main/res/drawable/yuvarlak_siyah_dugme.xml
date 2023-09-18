@@ -1,0 +1,6 @@
+<!-- yuvarlak_siyah_dugme.xml -->
+<shape xmlns:android="http://schemas.android.com/apk/res/android"
+    android:shape="rectangle">
+    <solid android:color="#FF0000" /> <!-- Arka plan rengini kırmızı yapın -->
+    <corners android:radius="100dp" /> <!-- Köşeleri tamamen yuvarlamak için yüksek bir köşe yarıçapı kullanın -->
+</shape>
